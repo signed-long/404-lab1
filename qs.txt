@@ -23,3 +23,6 @@
     The "Form Contents" block changes, with POST -X it contains:
         <DT>X: <i>&lt;type 'instance'&gt;</i>
         <DD>MiniFieldStorage('X', 'Y')
+
+8. What is the raw URL to your Python script on GitHub?
+    https://raw.githubusercontent.com/signed-long/404-lab1/main/lab1.py
